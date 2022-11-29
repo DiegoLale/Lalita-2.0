@@ -7,5 +7,5 @@ Dioooooos que nervios... a ver si no tardo mucho en publicar todo, ya... seguram
 
 
 La idea es no tardar mucho, si alguien en un par de meses ve que no avanza la cosa... que espere otros dos meses... y así...
-
-https://raw.githubusercontent.com/DiegoLale/Lalita-2.0/main/Imagenes/lalita2.0.png
+![imagen de lalita]
+(https://raw.githubusercontent.com/DiegoLale/Lalita-2.0/main/Imagenes/lalita2.0.png)
